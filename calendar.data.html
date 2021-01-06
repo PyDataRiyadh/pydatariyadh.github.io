@@ -1,0 +1,17 @@
+---
+layout: 
+title: 
+permalink: /calendar-data/
+---
+
+[
+{% for meetup in site.meetups %}
+	{
+		"title":"{{meetup.title}}",
+		"start": "{{meetup.date}}",
+		"allDay":true,
+		"url":"{{meetup.meetup}}"
+	}
+	{%unless forloop.last %},{%endunless%}
+{% endfor %}
+]

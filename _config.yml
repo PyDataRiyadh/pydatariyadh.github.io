@@ -36,6 +36,13 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 plugins:
   - jekyll-feed
 
+# Calendar
+collections:
+  meetups:
+    output: true
+    permalink: /meetups/:path/
+    title: Meetups
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
