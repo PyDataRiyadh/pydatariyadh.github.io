@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "MLflow: An open platform for the machine learning lifecycle"
+date:   2020-08-12 19:47:49 +0300
+categories: Events
+categories: "2020"
+
+---
+
+
+
+<img src="/assets/images/MLflow1.jpg" alt="meetup">
+
+<p>
+Everyone who has tried to do ML development knows that it is complex.<br>
+Beyond the usual concerns in the software development, ML development comes with new challenges:
+<ul>
+ <li>There are a myriad tools</li>
+ <li>It’s hard to track experiments</li>
+ <li>It’s hard to reproduce results</li>
+ <li>It’s hard to deploy ML</li>
+</ul>
+And because of these challenges, it is clear that ML development has to evolve a lot to become as robust,<br>
+predictable and wide-spread as traditional software development
+In this talk we have had Abdulrahman Alfozan as our presenter he took us through the machine learning lifecycle and its development challenges and will feature a demo of model training, tuning and serving using the MLflow framework.<br>
+
+MLflow which is an open source machine learning platform aims to simplify the management of machine learning pipelines
+</p>
+<a href="https://t.co/O6G4XqUgt1?amp=1">Slides  </a>   :
+<a href="https://t.co/qTCKkFoyGm?amp=1">Notebook: </a>
+
+
+
+<iframe width="850" height="390" src="https://www.youtube.com/embed/A-dNHEX7iU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
