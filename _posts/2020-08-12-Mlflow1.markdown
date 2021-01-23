@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "MLflow: An open platform for the machine learning lifecycle"
 date:   2020-08-12 19:47:49 +0300
 categories: Events

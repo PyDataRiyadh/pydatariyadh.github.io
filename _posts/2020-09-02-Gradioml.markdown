@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Building a Visual Interface for your ML Model with Gradio"
 date:   2020-09-02 19:47:49 +0300
 categories: Events
