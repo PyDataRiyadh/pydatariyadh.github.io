@@ -3,10 +3,18 @@ layout: posts
 title:  "MLflow: An open platform for the machine learning lifecycle - part 2"
 date:   2020-10-14 19:47:49 +0300
 categories: Events
-categories: "2020"
 
 ---
-<img src="/assets/images/Mlflow2.jpg" alt="meetup">
+
+
+<center>
+<h1>MLflow: An open platform for the machine learning lifecycle - part 2 </h1>
+<br>
+<img src="/assets/images/Mlflow2.jpg" alt="meetup" width="850" height="390">
+<br>
+
+
+
 <p>
 As per your demands we have Abdulrahman Alfozan back with us for MLflow part 2.
 
@@ -15,5 +23,7 @@ a) MLflow projects for reproducibility and sharing.<br>
 b) MLflow models for deployment-ready abstractions.<br>
 
 </p>
+
+</center>
 <a href="hhttps://github.com/alfozan/mlflow-example/blob/master/MLflow-presentation.pdf">Slides </a> :
 <a href="https://github.com/alfozan/mlflow-example">Project repo and documentation </a>

@@ -3,11 +3,16 @@ layout: posts
 title:  "Improving Non-English Tools for Digital Assistants"
 date:   2020-11-18 19:47:49 +0300
 categories: Events
-categories: "2020"
 
 ---
-<img src="/assets/images/nlp-tool.jpg" alt="meetup">
 
+
+
+<center>
+<h1>Improving Non-English Tools for Digital Assistants </h1>
+<br>
+<img src="/assets/images/nlp-tool.jpg" alt="meetup" >
+<br>
 
 <p>
 In this talk we have had <a href="https://twitter.com/fishnets88">Vincent </a> .He showed us how Rasa works.<br> With creating a simple chatbot from the command line and give an overview of how the NLU pipelines work.<br>
@@ -19,6 +24,8 @@ Finally he wrap up his talk with a “bulk labelling demo” that might inspire 
 
 
 <iframe width="850" height="390" src="https://www.youtube.com/embed/nCA8P9OEcQc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
 
 <h3>Resources </h3>
 <a href="https://rasahq.github.io/whatlies/">Whatlies documentaion </a> :

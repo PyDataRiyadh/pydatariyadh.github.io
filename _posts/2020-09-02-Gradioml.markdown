@@ -3,11 +3,15 @@ layout: posts
 title:  "Building a Visual Interface for your ML Model with Gradio"
 date:   2020-09-02 19:47:49 +0300
 categories: Events
-categories: "2020"
 
 ---
 
+<center>
+<h1>Building a Visual Interface for your ML Model with Gradio </h1>
+<br>
 <img src="/assets/images/Gradioml.jpg" alt="meetup">
+<br>
+
 
 
 <p>
@@ -20,8 +24,8 @@ It makes accessing any ML model as easy as opening a URL in your browser.
 In this talk had been joined by Gradio CEO and Co-Founder <b> Abubakar Abid </b> who will take us through building a visual interface for machine learning models with Gradio. You can learn more about Gradio by visiting their website  <a href="https://www.gradio.app/">Gradio  </a>
 
 </p>
-<a href="https://colab.research.google.com/drive/1BAw8QGFNqeKf1V0E3TLCzWyV6NM_qv_i">Notebook  </a> :
-<a href="https://www.gradio.app/hub">Gradio Hub  </a>
-
 
 <iframe width="850" height="390" src="https://www.youtube.com/embed/dCbTi5ZKA9s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+<a href="https://colab.research.google.com/drive/1BAw8QGFNqeKf1V0E3TLCzWyV6NM_qv_i">Notebook  </a> :
+<a href="https://www.gradio.app/hub">Gradio Hub  </a>
