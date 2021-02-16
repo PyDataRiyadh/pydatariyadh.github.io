@@ -1,18 +1,13 @@
 ---
-layout: posts
+layout: post
 title:  "Building a Visual Interface for your ML Model with Gradio"
 date:   2020-09-02 19:47:49 +0300
 categories: Events
 
 ---
 
-<center>
-<h1>Building a Visual Interface for your ML Model with Gradio </h1>
-<br>
+
 <img src="/assets/images/Gradioml.jpg" alt="meetup">
-<br>
-
-
 
 <p>
 Accessibility is a major challenge of machine learning (ML). Typical ML models are built by specialists and require specialized hardware/software as well as ML experience to validate.<br>
@@ -26,6 +21,6 @@ In this talk had been joined by Gradio CEO and Co-Founder <b> Abubakar Abid </b>
 </p>
 
 <iframe width="850" height="390" src="https://www.youtube.com/embed/dCbTi5ZKA9s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+
 <a href="https://colab.research.google.com/drive/1BAw8QGFNqeKf1V0E3TLCzWyV6NM_qv_i">Notebook  </a> :
 <a href="https://www.gradio.app/hub">Gradio Hub  </a>

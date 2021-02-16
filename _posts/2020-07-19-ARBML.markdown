@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "ARBML: Democratizing Arabic NLP"
 date:    2020-07-19 19:47:49 +0300
 categories: Events
@@ -7,18 +7,10 @@ categories: Events
 ---
 
 
-
-<center>
-<h1>ARBML: Democratizing Arabic NLP </h1>
-<br>
 <img src="/assets/images/ARBML.jpg" alt="meetup" width="850" height="390">
-<br>
-</center>
 
 
  <p>
-
-
 This talk has been Presented by Zaid  Alyafeai.
 He talk about ARBML, an open source project that makes NLP models more accessible through several interfaces
 ARBML goal is to enrich the Arabic content by creating open-source projects and open the community eyes on the significance of machine learning.
@@ -27,11 +19,6 @@ The arabicml2 team developed many models to run directly in the browser using Te
 You can visit the website here:
 https://zaidalyafeai.github.io/ARBML/Interfaces/Website/
 Interested in contribute to this open source project?
-Look for "good first issue" in ARBML GitHub repo:
-https://github.com/ARBML/ARBML/issues
-
-
-
 
 </p>
 
@@ -39,4 +26,6 @@ https://github.com/ARBML/ARBML/issues
 <h3> The Talk Video</h3>
 <iframe width="650" height="390" src="https://www.youtube.com/embed/4VAxMtLwbv0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a href="https://docs.google.com/presentation/d/1DLwDZwubqBPvR9eztDl94vLwknZIwaljnYl6Mc0k770/edit#slide=id.g6338adb409_0_176">Slides  </a>
+
+<br>
+<a href="https://docs.google.com/presentation/d/1DLwDZwubqBPvR9eztDl94vLwknZIwaljnYl6Mc0k770/edit#slide=id.g6338adb409_0_176">Slides  </a> | <a href="https://github.com/ARBML/ARBML/issues"> ARBML GitHub repo </a>
