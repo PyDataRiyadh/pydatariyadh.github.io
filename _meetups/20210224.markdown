@@ -1,0 +1,7 @@
+---
+layout: post
+title:   "Mark Needham | Graph Algorithms and Neo4j Introduction (7:00 PM GMT+03:00)"
+date:   2021-02-24 19:00:00 +0300
+categories: event
+meetup: "https://www.meetup.com/PyDataRiyadh/events/276536121/"
+---
