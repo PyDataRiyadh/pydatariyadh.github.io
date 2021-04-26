@@ -6,7 +6,7 @@ categories: Events
 ---
 
 
-<img src="/assets/images/nlp-tool.jpg" alt="meetup" >
+<img src="/assets/images/graph.jpeg" alt="meetup" >
 
 
 <p>
