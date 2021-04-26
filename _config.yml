@@ -30,20 +30,27 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pydatariyadh
 github_username:  pydatariyadh
-
 # Build settings
 # theme: minima
 # theme: jekyll-theme-yat
 remote_theme: "jeffreytse/jekyll-theme-yat"
 plugins:
+  - jekyll-get-json
   - jekyll-feed
 
 # Calendar
-collections:
-  meetups:
-    output: true
-    permalink: /meetups/:path/
-    title: Meetups
+#collections:
+#  meetups:
+#    output: true
+#    permalink: /meetups/:path/
+#    title: Meetups
+
+#API get
+jekyll_get_json:
+  - data: meetups
+    json: 'https://api.meetup.com/PyDataRiyadh/events?page=20&status=past,upcoming'
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

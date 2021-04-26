@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Graph Algorithms and Neo4j Introduction"
+date:   2021-02-24 19:00:00 +0300
+categories: Events
+---
+
+
+<img src="/assets/images/nlp-tool.jpg" alt="meetup" >
+
+
+<p>
+    In this talk <a href="https://twitter.com/markhneedham">Mark Needham </a> explains graph algorithms that provide one of the most potent approaches to analysing connected data. They describe steps to be taken to process a graph to discover its general or specific quantities. In this talk we will introduce you to the Neo4j Graph Algorithms library, giving a brief overview of the different types of algorithms available, and where you might use them. We will also show you how to get set up with the Graph Algorithms library, as well as introducing you to NEuler, the Cypher-free graph algorithms playground.
+</p>
+
+
+
+<iframe width="850" height="390" src="https://youtu.be/kTHMC7fZzDk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<h3>Resources</h3>
+<a href="https://neo4j.com/docs/​">Noe4j Documentation </a> 
+<a href="hhttps://neo4j.com/sandbox/">Graph Data Science sandbox </a>:  Neo4j Sandbox - Get started quickly, no download required.
+<br>
+<a href="https://neo4j.com/use-cases/​">Graph Database Use Cases </a>: Graph Database Use Cases and Solutions
+<a href="https://drive.google.com/file/d/1CUPmIWAwfGtgRAb7B-_YTSfNqPtvSN-N/view">PPT </a>: Mark Intro to Graph Data Science.pdf - Google Drive
+<br>

@@ -3,14 +3,13 @@ layout:
 title: 
 permalink: /calendar-data/
 ---
-
 [
-{% for meetup in site.meetups %}
+{% for meetup in site.data.meetups %}
 	{
-		"title":"{{meetup.title}}",
-		"start": "{{meetup.date}}",
+		"title":"{{meetup.name}}",
+		"start": "{{meetup.local_date}}",
 		"allDay":true,
-		"url":"{{meetup.meetup}}"
+		"url":"{{meetup.link}}"
 	}
 	{%unless forloop.last %},{%endunless%}
 {% endfor %}
