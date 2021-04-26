@@ -49,8 +49,6 @@ plugins:
 jekyll_get_json:
   - data: meetups
     json: 'https://api.meetup.com/PyDataRiyadh/events?page=20&status=past,upcoming'
-    cache: true
-
 
 
 # Exclude from processing.
