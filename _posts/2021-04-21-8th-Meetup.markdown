@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "8th Meetup: EDA with Plotly & Predicting Patients No Show"
+date:   2021-04-21 23:00:00 +0300
+categories: Events
+---
+
+
+<img src="/assets/images/PyData Ahmed.jpg" alt="meetup" >
+<img src="/assets/images/PyData Dhaifallah.jpeg" alt="meetup" >
+
+
+
+<p>
+   Hello Everyone,
+   Ramadan Mubarak!
+   In this meetup we had two amazing speakers:
+   <ul>
+   <li>1st lightning talk :
+   <a href="https://twitter.com/dAlwadani">Dr. Dhaifallah Alwadani</a>
+   In this lightning talk, Dhaifallah will show how he used xgboost to predict no-shows and automate intervention.</li>
+   <li>2nd Tutorial:
+   <a href="https://twitter.com/ahmedevelop"> Ahmed Karam</a>
+   In this tutorial he will introduce you to the Plotly library in python and how to use it, what is EDA, and how to get insights from the data.</li>
+   </ul>
+</p>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TTZYbv7pBvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h3>Resources</h3>
+<ul>
+<li><a href="https://colab.research.google.com/drive/1yvDZkZlZe1SYfNkwsyGVubVaxcJX-pZu?usp=sharing">Colab Notebook </a></li>
+<li><a href="https://drive.google.com/file/d/1Ur4FRb10AjanLXCqGTuik0WSnXsZSXuZ/view">Tutorial Slide Deck</a></li>
+</ul>
