@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-07-01T00:17:32+00:00</updated><id>/feed.xml</id><title type="html">PyData Riyadh</title><subtitle>providing data science enthusiast in Riyadh a forum to learn from each other  on the use of open source languages in the ever-evolving fields of data management, processing,  analytics and visualisation</subtitle><author><name>PyData Riyadh</name></author><entry><title type="html">8th Meetup: EDA with Plotly &amp;amp; Predicting Patients No Show</title><link href="/events/2021/04/21/8th-Meetup.html" rel="alternate" type="text/html" title="8th Meetup: EDA with Plotly &amp; Predicting Patients No Show" /><published>2021-04-21T20:00:00+00:00</published><updated>2021-04-21T20:00:00+00:00</updated><id>/events/2021/04/21/8th-Meetup</id><content type="html" xml:base="/events/2021/04/21/8th-Meetup.html">&lt;p&gt;&lt;img src=&quot;/assets/images/PyData Ahmed.jpg&quot; alt=&quot;meetup&quot; /&gt;
+&lt;img src=&quot;/assets/images/PyData Dhaifallah.jpeg&quot; alt=&quot;meetup&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+   Hello Everyone,
+   Ramadan Mubarak!
+   In this meetup we had two amazing speakers:
+   &lt;ul&gt;
+   &lt;li&gt;1st lightning talk :
+   &lt;a href=&quot;https://twitter.com/dAlwadani&quot;&gt;Dr. Dhaifallah Alwadani&lt;/a&gt;
+   In this lightning talk, Dhaifallah will show how he used xgboost to predict no-shows and automate intervention.&lt;/li&gt;
+   &lt;li&gt;2nd Tutorial:
+   &lt;a href=&quot;https://twitter.com/ahmedevelop&quot;&gt; Ahmed Karam&lt;/a&gt;
+   In this tutorial he will introduce you to the Plotly library in python and how to use it, what is EDA, and how to get insights from the data.&lt;/li&gt;
+   &lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TTZYbv7pBvs&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;Resources&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1yvDZkZlZe1SYfNkwsyGVubVaxcJX-pZu?usp=sharing&quot;&gt;Colab Notebook &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1Ur4FRb10AjanLXCqGTuik0WSnXsZSXuZ/view&quot;&gt;Tutorial Slide Deck&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>PyData Riyadh</name></author><summary type="html"></summary></entry><entry><title type="html">The Sovereign Machine Learner</title><link href="/events/2021/03/17/Sovereign-Learner.html" rel="alternate" type="text/html" title="The Sovereign Machine Learner" /><published>2021-03-17T18:00:00+00:00</published><updated>2021-03-17T18:00:00+00:00</updated><id>/events/2021/03/17/Sovereign-Learner</id><content type="html" xml:base="/events/2021/03/17/Sovereign-Learner.html">&lt;p&gt;&lt;img src=&quot;/assets/images/Marc.jpg&quot; alt=&quot;meetup&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+    In this talk &lt;a href=&quot;https://twitter.com/marksaroufim&quot;&gt;Mark &lt;/a&gt; shares his perspective on the current state of ML engineering careers and discusses the unschooled model to educating yourself about ML, science, and engineering.
+&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2SgbjfKs5TA&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;Resources&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1fI61Td6ofKgYX51-WcSq7UfmOeqThghWmEf5a5cXHQA/mobilepresent?slide=id.gc47bb4c51b_0_12​&quot;&gt;Slide Deck &lt;/a&gt;
+&lt;a href=&quot;https://marksaroufim.medium.com/how-i-read-technical-books-8b47d26a9e67&quot;&gt; How I read&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;https://marksaroufim.medium.com/technical-books-i-%EF%B8%8F-4af8f3ddd205&quot;&gt; Technical books I love &lt;/a&gt;
+&lt;a href=&quot;https://marksaroufim.medium.com/reflections-one-world-school-house-cd94ffbeae6e&quot;&gt;Reflections on one school worldhouse &lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://marksaroufim.medium.com/how-to-get-a-great-job-68cb69ddfeb1&quot;&gt; How to get a great job &lt;/a&gt;
+&lt;a href=&quot;https://marksaroufim.medium.com/deschooling-society-d1f0a0640ba6&quot;&gt;Deschooling society &lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://marksaroufim.substack.com/p/the-sovereign-student​&quot;&gt; The sovereign student &lt;/a&gt;
+&lt;a href=&quot;https://marksaroufim.substack.com/p/the-myth-of-objective-tech-screens&quot;&gt;The myth of objective tech screens &lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>PyData Riyadh</name></author><summary type="html"></summary></entry><entry><title type="html">Graph Algorithms and Neo4j Introduction</title><link href="/events/2021/02/24/Graph.html" rel="alternate" type="text/html" title="Graph Algorithms and Neo4j Introduction" /><published>2021-02-24T16:00:00+00:00</published><updated>2021-02-24T16:00:00+00:00</updated><id>/events/2021/02/24/Graph</id><content type="html" xml:base="/events/2021/02/24/Graph.html">&lt;p&gt;&lt;img src=&quot;/assets/images/graph.jpeg&quot; alt=&quot;meetup&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+    In this talk &lt;a href=&quot;https://twitter.com/markhneedham&quot;&gt;Mark Needham &lt;/a&gt; explains graph algorithms that provide one of the most potent approaches to analysing connected data. They describe steps to be taken to process a graph to discover its general or specific quantities. In this talk we will introduce you to the Neo4j Graph Algorithms library, giving a brief overview of the different types of algorithms available, and where you might use them. We will also show you how to get set up with the Graph Algorithms library, as well as introducing you to NEuler, the Cypher-free graph algorithms playground.
+&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kTHMC7fZzDk&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;Resources&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://neo4j.com/docs/​&quot;&gt;Noe4j Documentation &lt;/a&gt; 
+&lt;a href=&quot;hhttps://neo4j.com/sandbox/&quot;&gt;Graph Data Science sandbox &lt;/a&gt;:  Neo4j Sandbox - Get started quickly, no download required.
+&lt;br /&gt;
+&lt;a href=&quot;https://neo4j.com/use-cases/​&quot;&gt;Graph Database Use Cases &lt;/a&gt;: Graph Database Use Cases and Solutions
+&lt;a href=&quot;https://drive.google.com/file/d/1CUPmIWAwfGtgRAb7B-_YTSfNqPtvSN-N/view&quot;&gt;PPT &lt;/a&gt;: Mark Intro to Graph Data Science.pdf - Google Drive
+&lt;br /&gt;&lt;/p&gt;</content><author><name>PyData Riyadh</name></author><summary type="html"></summary></entry><entry><title type="html">Improving Non-English Tools for Digital Assistants</title><link href="/events/2020/11/18/NLP-tool.html" rel="alternate" type="text/html" title="Improving Non-English Tools for Digital Assistants" /><published>2020-11-18T16:47:49+00:00</published><updated>2020-11-18T16:47:49+00:00</updated><id>/events/2020/11/18/NLP-tool</id><content type="html" xml:base="/events/2020/11/18/NLP-tool.html">&lt;p&gt;&lt;img src=&quot;/assets/images/nlp-tool.jpg&quot; alt=&quot;meetup&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+    In this talk we have had &lt;a href=&quot;https://twitter.com/fishnets88&quot;&gt;Vincent &lt;/a&gt;. He showed us how Rasa works.&lt;br /&gt; With creating a simple chatbot from the command line and give an overview of how the NLU pipelines work.&lt;br /&gt;
+    He also explained his new effort to make this technology more available for non-English users.&lt;br /&gt;
+    He  demonstrated some tools he’s made available for Arabic but he’d love to get feedback from the community.
+    Finally he wrap up his talk with a “bulk labelling demo” that might inspire more folks to experiment with NLP in jupyter notebooks.
+&lt;/p&gt;
+
+&lt;iframe width=&quot;850&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/nCA8P9OEcQc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;Resources &lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://rasahq.github.io/whatlies/&quot;&gt;Whatlies documentaion &lt;/a&gt; :
+&lt;a href=&quot;https://koaning.github.io/human-learn/&quot;&gt;Human Learn documentaion &lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://github.com/RasaHQ/rasalit/tree/master/notebooks/bulk-labelling&quot;&gt;Bulk-labelling demo notebook &lt;/a&gt; :
+&lt;a href=&quot;https://drive.google.com/file/u/0/d/1ijfr6FOfhFRO6IT2qea2DV7-PoHOI4kd%E2%80%A6/edit&quot;&gt;Whatlies playground notebook &lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://rasahq.github.io/rasa-nlu-examples/&quot;&gt;rasa-nlu-examples documentation &lt;/a&gt; :
+&lt;a href=&quot;https://forum.rasa.com/&quot;&gt;rasa public forum link &lt;/a&gt;&lt;/p&gt;</content><author><name>PyData Riyadh</name></author><summary type="html"></summary></entry><entry><title type="html">MLflow: An open platform for the machine learning lifecycle - part 2</title><link href="/events/2020/10/14/Mlflow2.html" rel="alternate" type="text/html" title="MLflow: An open platform for the machine learning lifecycle - part 2" /><published>2020-10-14T16:47:49+00:00</published><updated>2020-10-14T16:47:49+00:00</updated><id>/events/2020/10/14/Mlflow2</id><content type="html" xml:base="/events/2020/10/14/Mlflow2.html">&lt;p&gt;&lt;img src=&quot;/assets/images/Mlflow2.jpg&quot; alt=&quot;meetup&quot; width=&quot;850&quot; height=&quot;390&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+As per your demands we have Abdulrahman Alfozan back with us for MLflow part 2.
+
+In this talk Abdulrahman has explored MLflow's components intended for model serving in production:&lt;br /&gt;
+a) MLflow projects for reproducibility and sharing.&lt;br /&gt;
+b) MLflow models for deployment-ready abstractions.&lt;br /&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;hhttps://github.com/alfozan/mlflow-example/blob/master/MLflow-presentation.pdf&quot;&gt;Slides &lt;/a&gt; :
+&lt;a href=&quot;https://github.com/alfozan/mlflow-example&quot;&gt;Project repo and documentation &lt;/a&gt;&lt;/p&gt;</content><author><name>PyData Riyadh</name></author><summary type="html"></summary></entry><entry><title type="html">Building a Visual Interface for your ML Model with Gradio</title><link href="/events/2020/09/02/Gradioml.html" rel="alternate" type="text/html" title="Building a Visual Interface for your ML Model with Gradio" /><published>2020-09-02T16:47:49+00:00</published><updated>2020-09-02T16:47:49+00:00</updated><id>/events/2020/09/02/Gradioml</id><content type="html" xml:base="/events/2020/09/02/Gradioml.html">&lt;p&gt;&lt;img src=&quot;/assets/images/Gradioml.jpg&quot; alt=&quot;meetup&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Accessibility is a major challenge of machine learning (ML). Typical ML models are built by specialists and require specialized hardware/software as well as ML experience to validate.&lt;br /&gt;
+The accessibility challenge also makes collaboration more difficult and limits the ML researcher’s exposure to realistic data and scenarios that occur in the wild.&lt;br /&gt;
+o improve accessibility and facilitate collaboration,
+GradioML team developed an open-source Python package, which allows researchers to rapidly generate a visual interface for their ML models.
+It makes accessing any ML model as easy as opening a URL in your browser.
+
+In this talk had been joined by Gradio CEO and Co-Founder &lt;b&gt; Abubakar Abid &lt;/b&gt; who will take us through building a visual interface for machine learning models with Gradio. You can learn more about Gradio by visiting their website  &lt;a href=&quot;https://www.gradio.app/&quot;&gt;Gradio  &lt;/a&gt;
+
+&lt;/p&gt;
+
+&lt;iframe width=&quot;850&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/dCbTi5ZKA9s&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1BAw8QGFNqeKf1V0E3TLCzWyV6NM_qv_i&quot;&gt;Notebook  &lt;/a&gt; :
+&lt;a href=&quot;https://www.gradio.app/hub&quot;&gt;Gradio Hub  &lt;/a&gt;&lt;/p&gt;</content><author><name>PyData Riyadh</name></author><summary type="html"></summary></entry><entry><title type="html">MLflow: An open platform for the machine learning lifecycle</title><link href="/events/2020/08/12/Mlflow1.html" rel="alternate" type="text/html" title="MLflow: An open platform for the machine learning lifecycle" /><published>2020-08-12T16:47:49+00:00</published><updated>2020-08-12T16:47:49+00:00</updated><id>/events/2020/08/12/Mlflow1</id><content type="html" xml:base="/events/2020/08/12/Mlflow1.html">&lt;p&gt;&lt;img src=&quot;/assets/images/MLflow1.jpg&quot; alt=&quot;meetup&quot; width=&quot;850&quot; height=&quot;390&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Everyone who has tried to do ML development knows that it is complex.&lt;br /&gt;
+Beyond the usual concerns in the software development, ML development comes with new challenges:
+&lt;ul&gt;
+ &lt;li&gt;There are a myriad tools&lt;/li&gt;
+ &lt;li&gt;It’s hard to track experiments&lt;/li&gt;
+ &lt;li&gt;It’s hard to reproduce results&lt;/li&gt;
+ &lt;li&gt;It’s hard to deploy ML&lt;/li&gt;
+&lt;/ul&gt;
+And because of these challenges, it is clear that ML development has to evolve a lot to become as robust,&lt;br /&gt;
+predictable and wide-spread as traditional software development
+In this talk we have had Abdulrahman Alfozan as our presenter he took us through the machine learning lifecycle and its development challenges and will feature a demo of model training, tuning and serving using the MLflow framework.&lt;br /&gt;
+
+MLflow which is an open source machine learning platform aims to simplify the management of machine learning pipelines
+&lt;/p&gt;
+
+&lt;iframe width=&quot;850&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/A-dNHEX7iU0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.co/O6G4XqUgt1?amp=1&quot;&gt;Slides  &lt;/a&gt;   :
+&lt;a href=&quot;https://t.co/qTCKkFoyGm?amp=1&quot;&gt;Notebook: &lt;/a&gt;&lt;/p&gt;</content><author><name>PyData Riyadh</name></author><summary type="html"></summary></entry><entry><title type="html">ARBML: Democratizing Arabic NLP</title><link href="/events/2020/07/19/ARBML.html" rel="alternate" type="text/html" title="ARBML: Democratizing Arabic NLP" /><published>2020-07-19T16:47:49+00:00</published><updated>2020-07-19T16:47:49+00:00</updated><id>/events/2020/07/19/ARBML</id><content type="html" xml:base="/events/2020/07/19/ARBML.html">&lt;p&gt;&lt;img src=&quot;/assets/images/ARBML.jpg&quot; alt=&quot;meetup&quot; width=&quot;850&quot; height=&quot;390&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+This talk has been Presented by Zaid  Alyafeai.
+He talk about ARBML, an open source project that makes NLP models more accessible through several interfaces
+ARBML goal is to enrich the Arabic content by creating open-source projects and open the community eyes on the significance of machine learning.
+ARBML procedure is generalized and can be generalized to many language models not just Arabic.
+The arabicml2 team developed many models to run directly in the browser using TensorFlow.js.
+You can visit the website here:
+https://zaidalyafeai.github.io/ARBML/Interfaces/Website/
+Interested in contribute to this open source project?
+
+&lt;/p&gt;
+
+&lt;h3&gt; The Talk Video&lt;/h3&gt;
+&lt;iframe width=&quot;650&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/4VAxMtLwbv0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;https://docs.google.com/presentation/d/1DLwDZwubqBPvR9eztDl94vLwknZIwaljnYl6Mc0k770/edit#slide=id.g6338adb409_0_176&quot;&gt;Slides  &lt;/a&gt; | &lt;a href=&quot;https://github.com/ARBML/ARBML/issues&quot;&gt; ARBML GitHub repo &lt;/a&gt;&lt;/p&gt;</content><author><name>PyData Riyadh</name></author><summary type="html"></summary></entry></feed>
