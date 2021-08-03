@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An Introduction to Adaptive Data Collection (In-person Meetup)"
-date:   2021-07-25 00:00:00 +0300
+date:   2021-07-25 19:00:00 +0300
 categories: Events
 ---
 
@@ -28,8 +28,6 @@ and its application in domains as varied as baking, hyperparameter selection, an
 About the Speaker:
 Mohammed is a PhD student at MIT exploring computational social science. Prior to graduate school, he led the data science team at Mozn, where he focused on creating user-friendly products that employed quantitative approaches to solve real-world problems.
 </p>
-
-
 
 <h3>Resources</h3>
 <ul>
