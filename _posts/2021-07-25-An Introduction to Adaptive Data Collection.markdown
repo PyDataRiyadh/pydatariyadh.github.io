@@ -23,5 +23,6 @@ Join us to learn more about the concept of adaptive data collection
 and its application in domains as varied as baking, hyperparameter selection, and social science.
 
 About the Speaker:
-Mohammed is a PhD student at MIT exploring computational social science. Prior to graduate school, he led the data science team at Mozn, where he focused on creating user-friendly products that employed quantitative approaches to solve real-world problems.
+Mohammed is a PhD student at MIT exploring computational social science. Prior to graduate school, he led the data science team at Mozn, where he focused on
+creating user-friendly products that employed quantitative approaches to solve real-world problems.
 </p>
